@@ -4,11 +4,11 @@ body {
 }
 
 .Header {
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman';
 }
 
 .TABLE {
-    font-family: Verdana, Tahoma, sans-serif;
+    font-family: Tahoma;
 }
 
 h4, h3, p {
