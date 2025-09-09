@@ -1,0 +1,13 @@
+body {
+    background-image: url("paperTexture.jpg");
+    background-size: cover;
+}
+
+h4, h3, p {
+    margin: 2px 0px;
+}
+
+th, td {
+    border: 1px solid grey;
+}
+
