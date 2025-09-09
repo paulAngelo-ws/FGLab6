@@ -3,6 +3,14 @@ body {
     background-size: cover;
 }
 
+.Header {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.TABLE {
+    font-family: Verdana, Tahoma, sans-serif;
+}
+
 h4, h3, p {
     margin: 2px 0px;
 }
